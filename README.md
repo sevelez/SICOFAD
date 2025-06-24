@@ -1,4 +1,5 @@
 # SICOFAD
+# Version 1.2.2
 # 🌍 Servicio de Gestión de Aduanas
 
 Este repositorio contiene el código fuente y la documentación para el **Servicio de Gestión de Aduanas**, una solución robusta diseñada para simplificar y automatizar los procesos relacionados con la declaración y cálculo de impuestos aduaneros.
